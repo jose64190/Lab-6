@@ -13,8 +13,12 @@ def encode(data):
     return final_data
 
 
-def decode(data):
-    pass
+# Natalie Smith
+def decode(data1):
+    data = ''
+    for j in data1:
+        j = data1 - 3
+    return data
 
 
 def main():
